@@ -1,0 +1,25 @@
+---
+layout: quote
+title:  "Bells and Whistles"
+date:   2020-06-09 17:44:00 +0200
+categories: quotes
+author: Maximilian Nöthe
+quote: >-
+    In this desolate land FLUKA was a lonely but significant exception.
+    Although it was used for many years for tasks usually regarded as secondary by
+    high energy physicists, it was developed with care,
+    giving priority to solid physical bases rather than to graphics or other
+    <q>bells and whistles</q>
+by: A. Fasso et al.
+quote_date: 1993
+---
+
+This quote is from the introduction to a paper about a FORTRAN library
+calculating partile interactions.
+
+The paper others specifically complain about the wrong priorities of their
+contemporaries, especially the GEANT developers, who in their opinion 
+lay to much focus on fancy graphics and making life easier for the users
+than on what really matters: the physics.
+
+From [A. Fassò et al, <q>FLUKA: present status and future developements</q>](http://www.fluka.org/content/publications/1993_elba.pdf)

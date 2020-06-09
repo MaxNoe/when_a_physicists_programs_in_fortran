@@ -1,0 +1,25 @@
+---
+layout: quote
+title:  "Details – the eponymous quote"
+date:   2020-06-09 17:20:00 +0200
+categories: quotes
+author: Maximilian Nöthe
+quote: >-
+    Thanks for the tip ... but <b>when a physicist programs in FORTRAN</b>,
+    it is usually because he doesn't care about this kind of <q>details</q>...
+    I know it is bad but at least in the past it was like that for many authors.
+by: Tanguy Pierog
+quote_date: 2019
+---
+
+This quote reached me as the answer to a bug report concerning
+exit codes.
+
+A widely used, well-known, battle-tested FORTRAN simulation program for
+astroparticle physics in development since the end of the 1980s had an exit code
+of 0 although it exited due to an error condition.
+
+There are a few memorable quotes from the email exchange following this bug report,
+but this is the most quotable one.
+
+The name of this blog is taken from this quote.

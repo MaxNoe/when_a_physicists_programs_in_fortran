@@ -1,0 +1,39 @@
+body {
+	font-family: "Fira Sans", sans-serif;
+}
+
+blockquote {
+	font-family: Georgia, serif;
+	font-size: 1.2rem;
+	font-style: italic;
+	width: 500px;
+	margin: 0.25em 0;
+	padding: 0.35em 40px;
+	line-height: 1.45;
+	position: relative;
+	color: #383838;
+	border-left: initial;
+	letter-spacing: initial;
+}
+
+blockquote:before {
+	display: block;
+	padding-left: 10px;
+	content: "\201C";
+	font-size: 4rem;
+	position: absolute;
+	left: -1rem;
+	top: -1rem;
+	color: #7a7a7a;
+}
+
+blockquote cite {
+	color: #999999;
+	font-size: 1rem;
+	display: block;
+	margin-top: 5px;
+}
+ 
+blockquote cite:before {
+	content: "\2014 \2009";
+}
