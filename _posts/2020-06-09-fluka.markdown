@@ -15,11 +15,11 @@ quote_date: 1993
 ---
 
 This quote is from the introduction to a paper about a FORTRAN library
-calculating partile interactions.
+calculating particle interactions.
 
 The paper others specifically complain about the wrong priorities of their
 contemporaries, especially the GEANT developers, who in their opinion 
 lay to much focus on fancy graphics and making life easier for the users
 than on what really matters: the physics.
 
-From [A. Fassò et al, <q>FLUKA: present status and future developements</q>](http://www.fluka.org/content/publications/1993_elba.pdf)
+From [A. Fassò et al, <q>FLUKA: present status and future developements</q>, 1993.](http://www.fluka.org/content/publications/1993_elba.pdf)
