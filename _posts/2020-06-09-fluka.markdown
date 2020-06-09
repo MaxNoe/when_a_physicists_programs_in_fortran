@@ -17,7 +17,7 @@ quote_date: 1993
 This quote is from the introduction to a paper about a FORTRAN library
 calculating particle interactions.
 
-The paper others specifically complain about the wrong priorities of their
+The paper authors specifically complain about the wrong priorities of their
 contemporaries, especially the GEANT developers, who in their opinion 
 lay to much focus on fancy graphics and making life easier for the users
 than on what really matters: the physics.
