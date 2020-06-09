@@ -24,7 +24,7 @@ email: maximilian.noethe@tu-dortmund.de
 description: >- # this means to ignore newlines until "baseurl:"
   Physicists have a special relationship to FORTRAN and to programming
   in general. 
-  Here we are collecting memerable quotes to shine a light on this special relationship.
+  Here we are collecting memorable quotes to shine a light on this special relationship.
 baseurl: "/when_a_physicist_programs_in_fortran"
 url: "https://maxnoe.github.io"
 github_username: maxnoe
